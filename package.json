@@ -1,19 +1,19 @@
 {
-  "name": "bitjs",
+  "name": "ttakkkulang",
   "version": "0.2.0",
-  "description": "JavaScript With Bits",
-  "main": "bit.js",
+  "description": "The Crazy Language (like ttakkku)",
+  "main": "ttakkku.js",
   "scripts": {
-    "test": "node bit.js ./test/helloworld.bin"
+    "test": "node ttakkku.js ./test/helloworld.ttak"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PMHStudio/bitJS.git"
+    "url": "git+https://github.com/PMHStudio/ttakkkuLang.git"
   },
   "author": "PMH Studio / PMH",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PMHStudio/bitJS/issues"
+    "url": "https://github.com/PMHStudio/ttakkkuLang/issues"
   },
-  "homepage": "https://github.com/PMHStudio/bitJS#readme"
+  "homepage": "https://github.com/PMHStudio/ttakkkuLang#readme"
 }
